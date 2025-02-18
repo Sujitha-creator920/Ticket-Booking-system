@@ -4,3 +4,5 @@
 ![Add event](https://github.com/user-attachments/assets/9c8f215f-cb80-48d5-9f39-13689423f14c)
 ![Adding event](https://github.com/user-attachments/assets/72bce983-daec-429b-8552-148e90401d69)
 ![Booking confirm](https://github.com/user-attachments/assets/96b696db-765e-4282-8688-0c6e9feb675b)
+[DESCRIPTION.docx](https://github.com/user-attachments/files/18847058/DESCRIPTION.docx)
+[Technologies used.docx](https://github.com/user-attachments/files/18847063/Technologies.used.docx)
