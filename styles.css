@@ -1,0 +1,28 @@
+body {
+  background-color: #f8f9fa;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+body.dark-mode {
+  background-color: #212529;
+  color: #ffffff;
+}
+
+h1, h2 {
+  color: #343a40;
+  transition: color 0.3s;
+}
+
+h1.dark-mode, h2.dark-mode {
+  color: #ffffff;
+}
+
+.card {
+  margin-bottom: 20px;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.card.dark-mode {
+  background-color: #343a40;
+  color: #ffffff;
+}
